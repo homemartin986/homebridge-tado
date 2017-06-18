@@ -11,12 +11,12 @@
     {
       "accessory": "TADO",
       "name": "Tado",
-      "homeID": 12345,
+      "homeID": 54203,
       "maxValue": 31,
       "minValue": 16,
       "zone": 1,
-      "username": "xxxxx@xxxx.com",
-      "password": "XXXXX",
+      "username": "martin986@live.it",
+      "password": "Aurora2014",
       "useFanSpeed": "AUTO",
       "useSwing": false,
       "useFahrenheit": false
